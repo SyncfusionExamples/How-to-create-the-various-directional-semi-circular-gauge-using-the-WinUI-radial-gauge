@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9c8afbea-800a-499f-82f4-1f6d9a3e2579": {
+      "ProjectGuid": "9c8afbea-800a-499f-82f4-1f6d9a3e2579",
+      "DisplayName": "SemiCircularGauge (Package)",
+      "ColorIndex": 0
+    },
+    "99b4aa67-bbd7-42c4-af3e-5d1c4b20b1f8": {
+      "ProjectGuid": "99b4aa67-bbd7-42c4-af3e-5d1c4b20b1f8",
+      "DisplayName": "SemiCircularGauge",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
