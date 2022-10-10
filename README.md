@@ -1,6 +1,6 @@
 # How to create the various directional semi-circular gauge using WinUI Radial Gauge
 
-This repository contains sample for how to create the various directional semi-circular gauge using [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
+This repository contains sample to create the various directional semi-circular gauge using [Syncfusion WinUi Radial Gauge](https://help.syncfusion.com/winui/radial-gauge/getting-started) control.
 
 ## Syncfuion controls
 
