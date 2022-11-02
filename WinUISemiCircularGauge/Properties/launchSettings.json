@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUISemiCircularGauge (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUISemiCircularGauge (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
